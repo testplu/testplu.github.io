@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JHW66G8QNE.com.likemeal.likemeal2",
+        "paths": [ "*" ]
+      },
+      {
+        "appID": "BVLRENUX6V.com.likemeal.likemeal2",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
